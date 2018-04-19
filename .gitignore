@@ -1,0 +1,46 @@
+# OS generated files #
+######################
+*.sublime-project
+*.sublime-workspace
+*.swp
+*~
+.#*
+.coverage
+.DS_Store
+.eslintcache
+.fabric
+.git
+.sass-cache
+nohup.out
+supervisord.log
+supervisord.pid
+
+# Editor directories and files #
+################################
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+.tern-port
+*.sln
+
+# Application specific directories and files #
+##############################################
+.install
+_tmp
+node_modules/
+/dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/test/unit/coverage/
+/test/e2e/reports/
+selenium-debug.log
+celerybeat.pid
+docs/build
+docs/python
+dump
+tags
+TAGS
+.tags

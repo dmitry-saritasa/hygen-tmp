@@ -1,0 +1,4 @@
+{
+  "baseUrl": ".",
+  "include": ["./components/**/*", "./vuex/**/*"]
+}
